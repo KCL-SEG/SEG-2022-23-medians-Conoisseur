@@ -23,4 +23,3 @@ else:
     median = numbers[length_of_list//2]
 
 print(f'median: {median}')
-input('Press ENTER to exit')
